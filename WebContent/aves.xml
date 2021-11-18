@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<aves>
+	<ave nome="Tucano-grande">
+		<reino>Animalia</reino>
+		<filo>Chordata</filo>
+		<classe>Aves</classe>
+		<ordem>Piciformes</ordem>
+		<familia>Ramphastidae</familia>
+		<genero>Ramphastos</genero>
+		<especie>Ramphastos toco</especie>
+	</ave>
+
+	<ave nome="Calopsita">
+		<reino>Animalia</reino>
+		<filo>Chordata</filo>
+		<classe>Aves</classe>
+		<ordem>Psittaciformes</ordem>
+		<familia>Cacatuidae</familia>
+		<genero>Nymphicus</genero>
+		<especie>Nymphicus hollandicus</especie>
+	</ave>
+	
+	<ave nome="Arara-azul-grande">
+		<reino>Animalia</reino>
+		<filo>Chordata</filo>
+		<classe>Aves</classe>
+		<ordem>Psittaciformes</ordem>
+		<familia>Psittacidae</familia>
+		<genero>Anodorhynchus</genero>
+		<especie>Anodorhynchus hyacinthinus</especie>
+	</ave>
+	
+	<ave nome="Pardal-doméstico">
+		<reino>Animalia</reino>
+		<filo>Chordata</filo>
+		<classe>Aves</classe>
+		<ordem>Passeriformes</ordem>
+		<familia>Passeridae</familia>
+		<genero>Passer</genero>
+		<especie>Passer domesticus</especie>
+	</ave>
+</aves>
